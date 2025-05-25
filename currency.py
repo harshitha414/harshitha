@@ -1,4 +1,4 @@
-# conversion of currency
+#Conversion of Currency
 colombia_pesos = int(input('What do you have left in pesos? : '))
 peruvian_soles = int(input('What do you have left in soles? : '))
 brazilian_reais = int(input('What do you have left in reais? : '))
