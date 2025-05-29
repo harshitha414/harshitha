@@ -6,6 +6,7 @@ todo = ['Get quarters',
         'Complete lists chapter.',
         'Call mom.',
         'Watch my hero academia.']
+
 #use slicing to print first two elements in the list:
 
 print(todo[0:2])
